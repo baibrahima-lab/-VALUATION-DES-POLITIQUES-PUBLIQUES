@@ -1,7 +1,7 @@
 # ====================================================================
 #          ÉVALUATION DES POLITIQUES PUBLIQUES
 # ====================================================================
-# Auteurs : Mahamat Sultan, Kanga Renselgi, Thierno Toure
+# Auteurs : Ibrahima BA, Mahamat 
 # Objectif : Analyse de l'impact des frais d'inscriptions différenciés
 # sur le nombre d'inscrits dans les établissements d'enseignement
 # supérieur français.
@@ -362,3 +362,4 @@ grid.arrange(grobs = plots, ncol = 2)
 # ====================================================================
 # Fin du script
 # ====================================================================
+
